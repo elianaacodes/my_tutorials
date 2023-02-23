@@ -1,0 +1,76 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+body {
+    background: white;
+      
+}
+
+.sign-container{
+    background: white;
+    color: black;
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+    border: 1px solid black; 
+    
+}
+
+.a-line{
+    height: 1px;
+    background: black;
+    top: 20%;
+}
+
+
+
+.line-1 {
+    height: 1px;
+    background: black;
+
+}
+
+.link{
+    text-align: right;
+    position: absolute;
+    top: 152px;
+    right:10px;
+}
+
+
+.link2{
+    text-align: left;
+    position: absolute;
+    top: 195px;
+    left: 14px;
+    padding: 2px;
+}
+
+.button{
+    background-color: orange;
+    color:black;
+    padding:16px;
+    border-radius:3px;
+    margin: 2px;
+    top: 250px;
+    left: 10px;
+    
+}
+
+
+.button2{
+    background-color: orange;
+    color:black;
+    padding: 16px;
+    border-radius:3px;
+    margin: 2px;
+    top: 275px;
+    left: 10px;
+    
+}
